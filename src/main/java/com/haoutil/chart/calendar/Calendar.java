@@ -45,7 +45,7 @@ public class Calendar {
     }
 
     /**
-     * 按给定范围生成日期，按 Java 9 的新特性做了修改
+     * 按给定范围生成日期，日期迭代按 Java 9 的新特性做了修改
      * @param startTime
      * @param endTime
      * @param t  value 默认值:可接受 Number 及其子类
